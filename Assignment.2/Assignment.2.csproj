@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Assignment.3\Assignment.3.csproj" />
     <ProjectReference Include="..\Assignments.OOP.2\Assignment.1.csproj" />
+    <ProjectReference Include="..\UnitTest.1\UnitTest.1.csproj" />
   </ItemGroup>
 
 </Project>
